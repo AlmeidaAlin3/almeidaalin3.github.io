@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Quarto Test"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research/mech_interp.ipynb
+        text: Notebook
+
+format:
+  html:
+    theme: cosmo
+
+execute:
+  freeze: auto
+
