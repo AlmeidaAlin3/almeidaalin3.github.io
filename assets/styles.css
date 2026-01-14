@@ -11,7 +11,7 @@
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 1.8rem;
-  border: 1px solid #ddd;
+  border: none;
 }
 
 
@@ -26,6 +26,35 @@
 .home-text-left {
   text-align: justify;
   text-justify: inter-word;
+}
+
+
+/* ===== Accent color override ===== */
+
+/* Links gerais */
+a {
+  color: #ff4fff;
+}
+
+/* Hover de links */
+a:hover {
+  color: #ff4fff;
+}
+
+/* Sidebar item ativo */
+.sidebar .active > a {
+  color: #ff4fff;
+}
+
+/* TOC da direita (On this page) */
+#toc a.active {
+  color: #ff4fff;
+  border-left-color: #ff4fff;
+}
+
+/* Barra de seleção do TOC */
+#toc a:hover {
+  color: #ff4fff;
 }
 
 
