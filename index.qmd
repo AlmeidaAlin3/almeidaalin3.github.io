@@ -1,8 +1,23 @@
 ---
-title: "Hello World"
+title: ""
+toc: false
 ---
 
-## Quarto funcionando
+<div class="home-vertical-left">
 
-Este site foi gerado com **Quarto** a partir de notebooks e arquivos `.qmd`.
+<img src="assets/profile.png" class="avatar-top-left">
+
+# Hello World, I’m Aline!
+
+<div class="home-text-left">
+
+I’ve spent **4+ years in industry** building and optimizing ML systems, and I have a **Master’s focused on Deep Reinforcement Learning**. But not really understanding these systems’ **internal behavior** has always annoyed me. And this discomfort only grows as these systems scale.  
+
+I’ve recently started studying **mechanistic interpretability**. And this site is my attempt to document a **structured learning path**, moving towards safety-relevant mechanistic studies.  
+
+It is a **living research log**! On the left, you’ll find a roadmap of my mechanistic interpretability journey,
+which you can use to navigate through the different phases and experiments.
+
+
+
 
