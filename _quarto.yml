@@ -4,16 +4,26 @@ project:
 
 website:
   title: "Quarto Test"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: research/mech_interp.ipynb
-        text: Notebook
+
+  sidebar:          
+    style: docked
+    contents:
+      - index.qmd
+      - section: Research
+        contents:
+          - research/mech_interp.ipynb
+
+  navbar: false     
 
 format:
   html:
     theme: cosmo
+
+    toc: true              
+    toc-location: right    
+    toc-depth: 3
+
+    number-sections: false
 
 execute:
   freeze: auto
