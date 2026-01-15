@@ -18,6 +18,14 @@ I’ve recently started studying **mechanistic interpretability**. And this site
 It is a **living research log**! On the left, you’ll find a roadmap of my mechanistic interpretability journey,
 which you can use to navigate through the different phases and experiments.
 
+<div class="contact-icons">
+  <a href="https://linkedin.com/in/alinegalmeida" target="_blank" aria-label="LinkedIn">
+    <img src="assets/linkedin_icon.png" alt="LinkedIn icon">
+  </a>
 
+  <a href="mailto:aline.gabriel.almeida@gmail.com" aria-label="Email">
+    <img src="assets/email_icon.png" alt="Email icon">
+  </a>
+</div>
 
 
