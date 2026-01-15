@@ -10,9 +10,9 @@ website:
     style: docked
     contents:
       - index.qmd
-      - section: Research
+      - section: Mechinterp
         contents:
-          - research/mech_interp.ipynb
+          - my_mechinterp/mech_interp.ipynb
 
   navbar: false     
 
@@ -25,7 +25,7 @@ format:
 
     toc: true              
     toc-location: right    
-    toc-depth: 3
+    toc-depth: 5
 
     number-sections: false
 

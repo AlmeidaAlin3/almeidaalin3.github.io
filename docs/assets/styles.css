@@ -100,40 +100,46 @@ main.content a:hover {
   color: #ff4fff !important;
 }
 
+
+
+
 /* ---------- TOC direita ---------- */
 
-/* Estado normal */
 nav#TOC a {
-  color: inherit;
+  color: inherit !important;;
+  font-weight: 400;
+  border-left: 2px solid transparent;
+  padding-left: 0.6rem;
 }
 
-/* Hover (qualquer item) */
+/* Hover */
 nav#TOC a:hover {
   color: #ff4fff !important;
 }
 
-/* Item ativo — cobre TODAS as variantes do Quarto */
-nav#TOC a.active,
-nav#TOC li.active > a,
-nav#TOC .toc-active > a {
+/* CLIQUE (foco após click) */
+nav#TOC a:focus,
+nav#TOC a:focus-visible {
   color: #ff4fff !important;
   font-weight: 600;
-  border-left: 2px solid #ff4fff;
+  border-left-color: #ff4fff;
+  outline: none;
 }
 
-/* ---------- Breadcrumb ---------- */
-.quarto-title-breadcrumbs li:last-child a {
+
+/* SCROLL (quando o Quarto marca corretamente) */
+nav#TOC a[aria-current="page"] {
   color: #ff4fff !important;
+  font-weight: 600;
+  border-left-color: #ff4fff;
 }
 
-
-/* ---------- Focus (acessibilidade) ---------- */
-a:focus-visible {
-  outline: 2px solid #ff4fff;
-  outline-offset: 2px;
-}
-
-
-
+/* Fallbacks
+nav#TOC .toc-active > a,
+nav#TOC a.active {
+  color: #ff4fff !important;
+  font-weight: 600;
+  border-left-color: #ff4fff;
+} */
 
 
