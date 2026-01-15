@@ -4,6 +4,7 @@ project:
 
 website:
   title: "AlmeidaAlin3"
+  favicon: assets/favicon.ico
 
   sidebar:          
     style: docked
