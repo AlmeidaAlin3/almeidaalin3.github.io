@@ -2,34 +2,57 @@ project:
   type: website
   output-dir: docs
 
-website:
-  title: "AlmeidaAlin3"
-  favicon: assets/favicon.ico
-
-  sidebar:          
-    style: docked
-    contents:
-      - index.qmd
-      - section: Mechinterp
-        contents:
-          - my_mechinterp/mech_interp.ipynb
-
-  navbar: false     
-
 format:
   html:
     theme: cosmo
     css: assets/styles.css
     respect-user-color-scheme: false
-
-
     toc: true              
     toc-location: right    
     toc-depth: 5
-
     number-sections: false
 
 execute:
   freeze: auto
 
+website:
+  title: "AlmeidaAlin3"
+  favicon: assets/favicon.ico
+
+
+  sidebar:
+    style: docked
+    contents:
+      - index.qmd
+      
+      
+      
+      - section: ARENA
+        contents:
+          - section: Chapter 1
+            contents:
+              - text: Transformer from scratch
+                file: my_mechinterp/mech_interp.ipynb
+                
+          - section: Chapter 2
+            contents:
+              - text: Transformer from scratch
+                file: my_mechinterp/mech_interp.ipynb
+                
+          - section: Chapter 3
+            contents:
+              - text: Transformer from scratch
+                file: my_mechinterp/mech_interp.ipynb
+                
+      - section: Mechinterp
+        contents:
+          - section: Phase 0
+            contents:
+              - text: Transformer from scratch
+                file: my_mechinterp/mech_interp.ipynb
+
+     
+                 
+                 
+  navbar: false
 
