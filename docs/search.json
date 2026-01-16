@@ -4,9 +4,45 @@
     "href": "index.html",
     "title": "Hello World, I’m Aline!",
     "section": "",
-    "text": "Hello World, I’m Aline!\n\nI’ve spent 4+ years in industry building and optimizing ML systems, and I have a Master’s focused on Deep Reinforcement Learning. But not really understanding these systems’ internal behavior has always annoyed me. And this discomfort only grows as these systems scale.\nI’ve recently started studying mechanistic interpretability. And this site is my attempt to document a structured learning path, moving towards safety-relevant mechanistic studies.\nIt is a living research log! On the left, you’ll find a roadmap of my mechanistic interpretability journey, which you can use to navigate through the different phases and experiments.",
+    "text": "Hello World, I’m Aline!\n\nAs an engineer who grew up taking toys apart just to see how they worked, who has spent 4+ years in industry building applied AI systems, and who holds a Master’s in Deep Reinforcement Learning, it’s genuinely uncomfortable (and honestly a little embarrassing) that I still can’t clearly say how AI systems actually work or claim that I truly understand what’s going on inside them.\nWhen family and friends ask, “Oh, you work with AI! Tell me how it works”, it always hits me hard. They look at me expecting the gears to fall neatly into place. Instead, while answering I catch myself wondering whether the matrix multiplication thing has even fully convinced myself.\nOver time, I realized this isn’t just a personal frustration. It’s something the field itself is starting to confront more openly, now framed as questions of AI safety and AI misalignment. I suspect the gap between performance and understanding is one of the risks we’re still underestimating.\nI’m worried about what this gap could mean at a global scale with potentially catastrophic implications, but I’m also genuinely excited to take part in working toward better answers.\nThis site is my attempt to gather my ideas, learnings, and experiments as I explore these questions. You can navigate it on the left and, if you’d like, join me along the way.",
     "crumbs": [
       "Hello World, I’m Aline!"
+    ]
+  },
+  {
+    "objectID": "my_docs/arena/Template.html",
+    "href": "my_docs/arena/Template.html",
+    "title": "It’s a template!",
+    "section": "",
+    "text": "some normal trext here",
+    "crumbs": [
+      "ARENA",
+      "Chapter 1",
+      "Template"
+    ]
+  },
+  {
+    "objectID": "my_docs/arena/Template.html#item-2",
+    "href": "my_docs/arena/Template.html#item-2",
+    "title": "It’s a template!",
+    "section": "Item 2",
+    "text": "Item 2\n\n10+1\n\n11\n\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\nItem 3\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\nItem 4\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1",
+    "crumbs": [
+      "ARENA",
+      "Chapter 1",
+      "Template"
+    ]
+  },
+  {
+    "objectID": "my_docs/arena/Template.html#sub-item",
+    "href": "my_docs/arena/Template.html#sub-item",
+    "title": "It’s a template!",
+    "section": "sub-item",
+    "text": "sub-item\n:)\n\nsub-sub-item\n::)",
+    "crumbs": [
+      "ARENA",
+      "Chapter 1",
+      "Template"
     ]
   },
   {
@@ -17,27 +53,72 @@
     "text": "BSD 3-Clause License\nCopyright (c) 2009-2012, Brian Granger, Min Ragan-Kelley\nAll rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
   },
   {
-    "objectID": "my_mechinterp/mech_interp.html#ola-que-tal",
-    "href": "my_mechinterp/mech_interp.html#ola-que-tal",
-    "title": "PHASE 0",
-    "section": "Ola que tal?",
-    "text": "Ola que tal?\n\n10+1\n\n11\n\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\nBien e tu que tal?\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1",
+    "objectID": "my_docs/readings/80000_hours/Template.html",
+    "href": "my_docs/readings/80000_hours/Template.html",
+    "title": "It’s a template!",
+    "section": "",
+    "text": "some normal trext here",
     "crumbs": [
-      "ARENA",
-      "Chapter 1",
-      "Transformer from scratch"
+      "Readings",
+      "80,000 Hours Career Guide"
     ]
   },
   {
-    "objectID": "my_mechinterp/mech_interp.html#sub-item",
-    "href": "my_mechinterp/mech_interp.html#sub-item",
-    "title": "PHASE 0",
-    "section": "sub-item",
-    "text": "sub-item\n\nsub-sub-item",
+    "objectID": "my_docs/readings/80000_hours/Template.html#item-2",
+    "href": "my_docs/readings/80000_hours/Template.html#item-2",
+    "title": "It’s a template!",
+    "section": "Item 2",
+    "text": "Item 2\n\n10+1\n\n11\n\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\nItem 3\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\nItem 4\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1",
     "crumbs": [
-      "ARENA",
-      "Chapter 1",
-      "Transformer from scratch"
+      "Readings",
+      "80,000 Hours Career Guide"
+    ]
+  },
+  {
+    "objectID": "my_docs/readings/80000_hours/Template.html#sub-item",
+    "href": "my_docs/readings/80000_hours/Template.html#sub-item",
+    "title": "It’s a template!",
+    "section": "sub-item",
+    "text": "sub-item\n:)\n\nsub-sub-item\n::)",
+    "crumbs": [
+      "Readings",
+      "80,000 Hours Career Guide"
+    ]
+  },
+  {
+    "objectID": "my_docs/mechinterp/Template.html",
+    "href": "my_docs/mechinterp/Template.html",
+    "title": "It’s a template!",
+    "section": "",
+    "text": "some normal trext here",
+    "crumbs": [
+      "Mechinterp",
+      "Phase 0",
+      "Template"
+    ]
+  },
+  {
+    "objectID": "my_docs/mechinterp/Template.html#item-2",
+    "href": "my_docs/mechinterp/Template.html#item-2",
+    "title": "It’s a template!",
+    "section": "Item 2",
+    "text": "Item 2\n\n10+1\n\n11\n\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\nItem 3\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\nItem 4\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1",
+    "crumbs": [
+      "Mechinterp",
+      "Phase 0",
+      "Template"
+    ]
+  },
+  {
+    "objectID": "my_docs/mechinterp/Template.html#sub-item",
+    "href": "my_docs/mechinterp/Template.html#sub-item",
+    "title": "It’s a template!",
+    "section": "sub-item",
+    "text": "sub-item\n:)\n\nsub-sub-item\n::)",
+    "crumbs": [
+      "Mechinterp",
+      "Phase 0",
+      "Template"
     ]
   }
 ]

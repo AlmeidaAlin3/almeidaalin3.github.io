@@ -7,8 +7,8 @@ format:
     theme: cosmo
     css: assets/styles.css
     respect-user-color-scheme: false
-    toc: true              
-    toc-location: right    
+    toc: true
+    toc-location: right
     toc-depth: 5
     number-sections: false
 
@@ -18,41 +18,42 @@ execute:
 website:
   title: "AlmeidaAlin3"
   favicon: assets/favicon.ico
-
+  navbar: false
 
   sidebar:
     style: docked
     contents:
       - index.qmd
-      
-      
-      
+
+
+      - section: Readings
+        contents:
+          - text: 80,000 Hours Career Guide
+            file: my_docs/readings/80000_hours/Template.ipynb
+
+
       - section: ARENA
         contents:
           - section: Chapter 1
             contents:
-              - text: Transformer from scratch
-                file: my_mechinterp/mech_interp.ipynb
-                
+              - text: Template
+                file: my_docs/arena/Template.ipynb
+
           - section: Chapter 2
             contents:
-              - text: Transformer from scratch
-                file: my_mechinterp/mech_interp.ipynb
-                
+              - text: Template
+                file: my_docs/arena/Template.ipynb
+
           - section: Chapter 3
             contents:
-              - text: Transformer from scratch
-                file: my_mechinterp/mech_interp.ipynb
-                
+              - text: Template
+                file: my_docs/arena/Template.ipynb
+
+
       - section: Mechinterp
         contents:
           - section: Phase 0
             contents:
-              - text: Transformer from scratch
-                file: my_mechinterp/mech_interp.ipynb
-
-     
-                 
-                 
-  navbar: false
+              - text: Template
+                file: my_docs/mechinterp/Template.ipynb
 

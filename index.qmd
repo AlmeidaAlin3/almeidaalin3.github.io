@@ -11,12 +11,16 @@ toc: false
 
 <div class="home-text-left">
 
-I’ve spent **4+ years in industry** building and optimizing ML systems, and I have a **Master’s focused on Deep Reinforcement Learning**. But not really understanding these systems’ **internal behavior** has always annoyed me. And this discomfort only grows as these systems scale.  
+As an engineer who grew up taking toys apart just to see how they worked, who has spent **4+ years in industry** building applied AI systems, and who holds a **Master’s in Deep Reinforcement Learning**, it’s genuinely uncomfortable *(and honestly a little embarrassing)* that I still can’t clearly say how AI systems *actually work* or claim that I truly understand what’s going on inside them.
 
-I’ve recently started studying **mechanistic interpretability**. And this site is my attempt to document a **structured learning path**, moving towards safety-relevant mechanistic studies.  
+When family and friends ask, *“Oh, you work with AI! Tell me how it works”*, it always hits me hard. They look at me expecting the gears to fall neatly into place. Instead, while answering I catch myself wondering whether the matrix multiplication thing has even fully convinced *myself*.
 
-It is a **living research log**! On the left, you’ll find a roadmap of my mechanistic interpretability journey,
-which you can use to navigate through the different phases and experiments.
+Over time, I realized this isn’t just a personal frustration. It’s something the field itself is starting to confront more openly, now framed as questions of **AI safety** and **AI misalignment**. I suspect the gap between performance and understanding is one of the risks we’re still underestimating.
+
+I’m worried about what this gap could mean at a global scale with **potentially catastrophic implications**, but I’m also genuinely excited to take part in working toward better answers.
+
+This site is my attempt to gather my ideas, learnings, and experiments as I explore these questions. You can navigate it on the left and, if you’d like, join me along the way.
+
 
 <div class="contact-icons">
   <a href="https://linkedin.com/in/alinegalmeida" target="_blank" aria-label="LinkedIn">
