@@ -30,6 +30,10 @@ website:
         contents:
           - text: 80,000 Hours Career Guide
             file: my_docs/readings/80000_hours/Template.ipynb
+            
+          - text: AI 2027
+            file: my_docs/readings/ai_2027/ai_2027.ipynb
+
 
 
       - section: ARENA
