@@ -145,7 +145,6 @@ nav#TOC a.active {
 
 
 /* fonts */
-
 @font-face {
   font-family: "Crimson Pro";
   src: url("fonts/CrimsonPro-VariableFont_wght.ttf") format("truetype");
@@ -169,6 +168,22 @@ body {
 
 h1, h2, h3 {
   font-weight: 500;
+}
+
+
+/* code */
+@font-face {
+  font-family: "Google Sans Code";
+  src: url("fonts/GoogleSansCode-VariableFont_wght.ttf") format("truetype");
+  font-weight: 200 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Google Sans Code";
+  src: url("fonts/GoogleSansCode-Italic-VariableFont_wght.ttf") format("truetype");
+  font-weight: 200 900;
+  font-style: italic;
 }
 
 
