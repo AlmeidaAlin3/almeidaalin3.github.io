@@ -28,36 +28,35 @@ website:
 
       - section: Readings
         contents:
-          - text: 80,000 Hours Career Guide
-            file: my_docs/readings/80000_hours/Template.ipynb
-            
           - text: AI 2027
             file: my_docs/readings/ai_2027/ai_2027.ipynb
-
-
-
-      - section: ARENA
-        contents:
-          - section: Chapter 1
-            contents:
-              - text: Template
-                file: my_docs/arena/Template.ipynb
-
-          - section: Chapter 2
-            contents:
-              - text: Template
-                file: my_docs/arena/Template.ipynb
-
-          - section: Chapter 3
-            contents:
-              - text: Template
-                file: my_docs/arena/Template.ipynb
-
-
-      - section: Mechinterp
-        contents:
-          - section: Phase 0
-            contents:
-              - text: Template
-                file: my_docs/mechinterp/Template.ipynb
+            
+#          - text: 80,000 Hours Career Guide
+#            file: my_docs/readings/80000_hours/Template.ipynb
+#            
+#
+#      - section: ARENA
+#        contents:
+#          - section: Chapter 1
+#            contents:
+#              - text: Template
+#                file: my_docs/arena/Template.ipynb
+#
+#          - section: Chapter 2
+#            contents:
+#              - text: Template
+#                file: my_docs/arena/Template.ipynb
+#
+#          - section: Chapter 3
+#            contents:
+#              - text: Template
+#                file: my_docs/arena/Template.ipynb
+#
+#
+#      - section: Mechinterp
+#        contents:
+#          - section: Phase 0
+#            contents:
+#              - text: Template
+#                file: my_docs/mechinterp/Template.ipynb
 
