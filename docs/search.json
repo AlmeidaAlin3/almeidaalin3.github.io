@@ -35,33 +35,21 @@
     "href": "my_docs/readings/80000_hours/Template.html",
     "title": "It’s a template!",
     "section": "",
-    "text": "some normal trext here",
-    "crumbs": [
-      "Readings",
-      "80,000 Hours Career Guide"
-    ]
+    "text": "some normal trext here"
   },
   {
     "objectID": "my_docs/readings/80000_hours/Template.html#item-2",
     "href": "my_docs/readings/80000_hours/Template.html#item-2",
     "title": "It’s a template!",
     "section": "Item 2",
-    "text": "Item 2\n\n10+1\n\n11\n\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\nItem 3\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\nItem 4\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1",
-    "crumbs": [
-      "Readings",
-      "80,000 Hours Career Guide"
-    ]
+    "text": "Item 2\n\n10+1\n\n11\n\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\nItem 3\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\nItem 4\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1\n\n\n10+1"
   },
   {
     "objectID": "my_docs/readings/80000_hours/Template.html#sub-item",
     "href": "my_docs/readings/80000_hours/Template.html#sub-item",
     "title": "It’s a template!",
     "section": "sub-item",
-    "text": "sub-item\n:)\n\nsub-sub-item\n::)",
-    "crumbs": [
-      "Readings",
-      "80,000 Hours Career Guide"
-    ]
+    "text": "sub-item\n:)\n\nsub-sub-item\n::)"
   },
   {
     "objectID": "venv-quarto/lib/python3.12/site-packages/pyzmq-27.1.0.dist-info/licenses/LICENSE.html",
