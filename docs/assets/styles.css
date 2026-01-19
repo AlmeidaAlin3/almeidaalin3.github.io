@@ -187,3 +187,20 @@ h1, h2, h3 {
 }
 
 
+/*
+p {
+  text-indent: 2.5em;
+}
+
+.no-indent p,
+p.no-indent {
+  text-indent: 0;
+}
+*/
+
+
+.justify {
+  text-align: justify;
+  line-height: 1.6;
+}
+
